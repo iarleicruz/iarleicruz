@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Iarlei Souza</h1>
-<h3 align="center">HTML Web Developer</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Desenvolvedor +Front-+%7C+  End" alt="Typing SVG">
+  </a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iarleisouza" alt="iarleisouza" /> </p>
 
 - 🔭 i'm just studying
