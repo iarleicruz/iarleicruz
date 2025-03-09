@@ -11,7 +11,7 @@
 
 - 💬 Ask me about ** HTML, CSS, JavaScript
 
-- 📫 How to reach me **[https://iarleisouza.vercel.app]**
+- 📫 How to reach me **[https://iarleicruz.vercel.app]**
 
 - ⚡ Fun fact **Oneye 😜**
 <p>
