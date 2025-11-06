@@ -2,7 +2,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Iarlei Cruz</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor+frontend)]
+
   </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iarleisouza" alt="iarleisouza" /> </p>
